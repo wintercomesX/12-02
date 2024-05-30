@@ -31,6 +31,7 @@
 3. `Вывод SHOW TABLES (Скриншот 3)`
 
 `При необходимости прикрепитe сюда скриншоты
+
 ![Выданы права новому пользователю](https://github.com/wintercomesX/12-02/blob/main/12-02/img/rights.PNG)`
 
 ![Смена пользователя](https://github.com/wintercomesX/12-02/blob/main/12-02/img/user_switch.PNG)`
