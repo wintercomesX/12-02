@@ -48,7 +48,7 @@
 
 
 `При необходимости прикрепитe сюда скриншоты
-![Таблица](https://github.com/wintercomesX/12-02/blob/main/12-02/img/table.PNG)``
+![Таблица](https://github.com/wintercomesX/12-02/blob/main/12-02/img/table2.PNG)``
 
 
 ---
